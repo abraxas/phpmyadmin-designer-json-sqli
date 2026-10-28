@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-designer-json-sqli">phpmyadmin-designer-json-sqli</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-designer-json-sqli"><strong>https://abraxaslabs.tech/research/phpmyadmin-designer-json-sqli</strong></a>
+</p>
+
 
 # phpmyadmin-designer-json-sqli
 
